@@ -39,3 +39,6 @@ build/
 
 ### Executable ###
 kata7/
+
+### Resources ###
+src/main/resources/
